@@ -1,3 +1,4 @@
 # git_practice
-four
-ああああああ
+
+しねしね
+あああ
